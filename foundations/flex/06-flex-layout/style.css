@@ -13,6 +13,7 @@ body {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 16px;
 }
 
 .content {
@@ -28,21 +29,17 @@ body {
   background-color: #eeeeee;
 }
 
-.left-links,
-.right-links {
+ul {
   display: flex;
   gap: 16px;
-  padding: 0 16px;
-}
-
-li {
-  list-style-type: none;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
   text-decoration: none;
-  color: #aaaaaa;
-  font-weight: 700;
+  color: #666666;
 }
 
 img {
