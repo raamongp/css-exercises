@@ -29,7 +29,7 @@ body {
 .header-container {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 
 .header {
@@ -38,7 +38,7 @@ body {
 }
 
 .text {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
 }
 
 .icon {
